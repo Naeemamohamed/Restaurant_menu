@@ -1,0 +1,75 @@
+body{
+  margin-left: 50 px;
+  margin-right: 50 px;
+  margin-bottom: 50 px;
+  
+} 
+  .Zindua.heading  h1{
+    color: red;
+}
+.zindua.paragraph h1{
+    color: black;
+}
+span{
+  color: red;
+}
+form{
+max-width: 400;
+margin:  0 auto;
+}
+
+input[ type=" submit "]:hover{ 
+   background-color: #454545;
+  }
+  table{
+margin-top: 20 px;
+width: 100%;
+border-collapse: collapse;
+border: 2px ;
+text-align: left;
+  }
+  th, td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  th{
+    background-color: #f2f2f2;
+    
+  }
+.box{
+  width: 200 px;
+  height: 150 px;
+  padding: 10 px;
+  border: 2 px ;
+  margin: 30  px;
+  background-color: beige;
+}
+.content{
+  background-color: black;
+  color: #f2f2f2;
+  height: 100% ;
+  text-align: center;
+
+}
+.programs{
+  /* flex */
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  /* grid */
+
+  /* display: grid;
+  grid-template-colums: 1fr 1fr 1fr;
+  gap: 20 px; */
+
+  .pro h2{}
+    color; red;
+  }
+
+  
+
+
